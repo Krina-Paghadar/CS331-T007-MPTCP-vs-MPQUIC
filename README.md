@@ -2,9 +2,7 @@
 
 **Course:** CS 331: Computer Networks  
 **Team ID:** T007  
-**Project ID:** `[Project ID: Pending allocation / To be provided by Instructor]`  
-**Repository:** [https://github.com/Krina-Paghadar/CS331-T007-MPTCP-vs-MPQUIC](https://github.com/Krina-Paghadar/CS331-T007-MPTCP-vs-MPQUIC)  
-**Submission Date:** 6 November 2026  
+**Project ID:** CS331-T007-MPQUICvsMPTCP   
 
 ---
 
