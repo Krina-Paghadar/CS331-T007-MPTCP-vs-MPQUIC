@@ -38,6 +38,8 @@ CS331-T007-MPTCP-vs-MPQUIC/
 ├── ppt/
 │   └── CS331_T007_Presentation.pptx   # Presentation slides (PPTX)
 │
+├── code/                              # Project codebase directory
+│
 └── AI_Used/
     ├── Kaushal_AI_usage.md            # AI usage log for Kaushal Rathi (24110290)
     ├── Krina_AI_usage.md              # AI usage log for Krina Paghadar (24110169)
